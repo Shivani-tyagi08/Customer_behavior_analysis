@@ -111,11 +111,11 @@ Use targeted marketing for high-revenue demographics
 🚀 How to Run the Project
 Clone the repository:-
 
-• Install required Python libraries
-• Run EDA notebook
-• Connect to PostgreSQL
-• Execute SQL scripts
-• Open Power BI dashboard file
+Install required Python libraries then 
+Run EDA notebook after that 
+Connect to PostgreSQL
+Execute SQL scripts and 
+Open Power BI dashboard file
 
 👩‍💻 Author:-
 
