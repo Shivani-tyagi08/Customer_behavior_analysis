@@ -108,24 +108,14 @@ Optimize discount strategy to protect margins
 Highlight top-rated products in campaigns
 Use targeted marketing for high-revenue demographics
 
-📁 Project Structure:-
-
-Customer-Shopping-Behavior-Analysis/
-│
-├── dataset/
-├── notebooks/
-├── sql_queries/
-├── powerbi_dashboard/
-├── reports/
-└── README.md 
-
 🚀 How to Run the Project
 Clone the repository:-
-Install required Python libraries
-Run EDA notebook
-Connect to PostgreSQL
-Execute SQL scripts
-Open Power BI dashboard file
+
+• Install required Python libraries
+• Run EDA notebook
+• Connect to PostgreSQL
+• Execute SQL scripts
+• Open Power BI dashboard file
 
 👩‍💻 Author:-
 
